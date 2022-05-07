@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\Wszechswiat\\Training\\UnitTests\\Calculator\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "C:\\Users\\jakub\\Desktop\\Wszechswiat\\Training\\UnitTests\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\Wszechswiat\\Training\\UnitTests\\Calculator\\Classes.csproj",
+      "projectName": "Classes",
+      "projectPath": "C:\\Users\\jakub\\Desktop\\Wszechswiat\\Training\\UnitTests\\Calculator\\Classes.csproj",
       "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jakub\\Desktop\\Wszechswiat\\Training\\UnitTests\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
