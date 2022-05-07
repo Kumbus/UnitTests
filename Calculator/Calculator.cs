@@ -6,5 +6,10 @@
         {
             return number1 + number2; //celowy błąd
         }
+
+        public int Multiply(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
